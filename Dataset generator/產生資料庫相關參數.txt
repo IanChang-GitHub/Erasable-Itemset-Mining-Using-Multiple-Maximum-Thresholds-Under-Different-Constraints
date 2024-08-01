@@ -1,0 +1,31 @@
+*產生關聯資料庫的相關參數
+
+T:平均交易長度
+I:商品種類數(每單位：1000種商品)
+N:頻繁項目平均最大長度
+D:資料庫筆數(每單位：1000筆交易)
+
+一、關聯資料庫步驟：
+
+
+	 1.輸入指令：
+
+             make 4 4 4 100 
+           參數=> T I N D
+
+	會產生
+
+  	     T4I4N4KD100K.data
+        
+         2.輸入bin2ascii後，再將上面的T4I4N4KD100K.data輸入，再按 enter即可
+
+         
+             Input File Name:T4I4N4KD100K.data
+
+         3.接著會產生
+
+	     T4I4N4KD100K.data.tra
+
+         4.再將T4I4N4KD100K.data.tra的副檔名修改成「文字檔」，如T10I4N4KD100K.txt即可使用。
+
+
