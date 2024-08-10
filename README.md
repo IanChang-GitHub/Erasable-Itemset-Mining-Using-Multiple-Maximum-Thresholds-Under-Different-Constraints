@@ -1,4 +1,4 @@
-# 不同限制條線下之多門檻可篩除項目集探勘  
+# 不同限制條件下之多門檻可篩除項目集探勘  
 # Erasable Itemset Mining Using Multiple Maximum Thresholds Under Different Constraints
 
 
